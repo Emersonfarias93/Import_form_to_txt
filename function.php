@@ -9,7 +9,7 @@
    $hist_pad = $_POST['hist_padrao'];
    $cd_set_cred =$_POST['cd_setor_cred'];
    $cd_set_deb =$_POST['cd_setor_deb'];
-   $vl_lan_setor =$_POST['vl_lanc_setor'];
+   $vl_lan_setor =$_POST['vl_lanc_setor']; 
    $ds_lanc =$_POST['ds_lanc'];
    $cd_emp =$_POST['cd_empresa'];
    $cd_aux_cred =$_POST['cd_auxiliar_cred'];
